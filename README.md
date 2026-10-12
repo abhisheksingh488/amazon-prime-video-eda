@@ -49,9 +49,8 @@ Contains people associated with titles, including:
 
 ## Dataset Download Links
 
-- **Titles Dataset:** [Download titles.csv.zip](https://drive.google.com/file/d/1TSUrzr3TUJraNSO2ShFUDMAKxeZiHjmV/view?usp=sharing)
-- **Credits Dataset:** [Download credits.csv.zip](https://drive.google.com/file/d/1urca2tAGuVcxtOhPurCKEmiHqbZcIUL1/view?usp=sharing)
-
+- **Titles Dataset:** [Download titles.csv.zip](https://drive.google.com/file/d/1TSUrzzr3TUJraNSO2ShFUDMAKxeZiHJm/view?usp=sharing)
+- **Credits Dataset:** [Download credits.csv.zip](https://drive.google.com/file/d/1urca2tAGuVcxtOhPurCKEmiHqbZclULl/view?usp=sharing)
 
 ## Tools & Technologies
 
