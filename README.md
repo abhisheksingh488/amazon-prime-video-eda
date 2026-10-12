@@ -45,9 +45,13 @@ Contains people associated with titles, including:
 - `character_name` — character name, where applicable
 - `role` — role such as actor or director
 
-**Dataset source:** [Inside Airbnb is not the source for this project. Use the dataset source/link provided with your Amazon Prime EDA assignment.]()
+**Dataset source:** Amazon Prime Video titles and credits dataset.
 
-> Before publishing, add the original dataset download URL supplied by your course or assignment. Do not upload raw datasets unless redistribution is permitted by the dataset's terms.
+## Dataset Download Links
+
+- **Titles Dataset:** [Download titles.csv.zip](https://drive.google.com/file/d/1TSUrzr3TUJraNSO2ShFUDMAKxeZiHjmV/view?usp=sharing)
+- **Credits Dataset:** [Download credits.csv.zip](https://drive.google.com/file/d/1urca2tAGuVcxtOhPurCKEmiHqbZcIUL1/view?usp=sharing)
+
 
 ## Tools & Technologies
 
